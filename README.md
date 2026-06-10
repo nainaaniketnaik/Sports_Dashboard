@@ -75,7 +75,6 @@ Aspiring Data Analyst skilled in:
 - Data Visualization
 - Business Intelligence
 
-- ⭐ If you found this project useful, don't forget to star the repository.
 
 ---
 ⭐ If you found this project useful, don't forget to star the repository.
